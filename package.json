@@ -2,8 +2,9 @@
   "name": "society-hub-root",
   "private": true,
   "scripts": {
+    "postinstall": "npm install --prefix society-hub-main",
     "dev": "npm run dev --prefix society-hub-main",
-    "build": "npm run build --prefix society-hub-main",
+    "build": "npm install --prefix society-hub-main && npm run build --prefix society-hub-main",
     "preview": "npm run preview --prefix society-hub-main",
     "lint": "npm run lint --prefix society-hub-main",
     "format": "npm run format --prefix society-hub-main"
