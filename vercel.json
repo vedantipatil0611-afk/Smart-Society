@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build --prefix society-hub-main",
+  "outputDirectory": "society-hub-main/.output/public",
+  "framework": null
+}
