@@ -1,0 +1,6 @@
+SUPABASE_PROJECT_ID="qaurwgwkrjrohibwokhp"
+SUPABASE_PUBLISHABLE_KEY="sb_publishable_VDyIO4Hdt3_bCBvsj1KPeA_wosLovKO"
+SUPABASE_URL="https://qaurwgwkrjrohibwokhp.supabase.co"
+VITE_SUPABASE_PROJECT_ID="qaurwgwkrjrohibwokhp"
+VITE_SUPABASE_PUBLISHABLE_KEY="sb_publishable_VDyIO4Hdt3_bCBvsj1KPeA_wosLovKO"
+VITE_SUPABASE_URL="https://qaurwgwkrjrohibwokhp.supabase.co"
